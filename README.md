@@ -1,6 +1,6 @@
 ### YOU ARE WELCOOME TO KINGSLEY NWAFOR HUB
 
-![Kingsley Nwafor](http:https://res.cloudinary.com/dje0eeous/image/upload/v1635425119/King_dbr9nt.jpg)
+![Kingsley Nwafor](https://res.cloudinary.com/dje0eeous/image/upload/v1635425119/King_dbr9nt.jpg)
 
 <!--
 **kingsleynwafor54/kingsleynwafor54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
