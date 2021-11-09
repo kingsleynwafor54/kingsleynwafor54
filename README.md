@@ -26,10 +26,10 @@ Here are some ideas to get you started:
  ### Education
 - Federal University Otuoke,Bayelsa State,Nigeria- FirstClass Honours (Bsc Physics)
 ### SkillSet
-- Programming language(s): Java,Python,JavaScript
-- Programming Framework:SpringBoot(Java),Django(Python),FastApi(Python)
-- Web Technologies:Html,Css,JavaScript
-- DataBases:mySQL,MongoDB
+- Programming language(s): Java, Python, Node.js
+- Programming Framework:SpringBoot(Java), Django(Python), FastApi(Python)
+- Web Technologies:Html, Css, JavaScript
+- DataBases:mySQL, MongoDB
 ### Experiences
 - E-commerce BackEnd with Java
 - E-commerce with SpringBoot
