@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ##### GithubAccount:https://github.com/kingsleynwafor54
 ##### Linkedin: https://www.linkedin.com/in/nwafor-kingsley/
  ### Education
-- Federal University Otuoke,Bayelsa State,Nigeria- FirstClass Honours (Bsc Physics)
+<!-- - Federal University Otuoke,Bayelsa State,Nigeria- FirstClass Honours (Bsc Physics) -->
 ### SkillSet
 - Programming language(s): Java, Python, Node.js
 - Programming Framework:SpringBoot(Java), Django(Python), FastApi(Python)
