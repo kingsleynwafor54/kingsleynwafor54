@@ -24,18 +24,29 @@ Here are some ideas to get you started:
 ##### GithubAccount:https://github.com/kingsleynwafor54
 ##### Linkedin: https://www.linkedin.com/in/nwafor-kingsley/
  ### Education
-<!-- - Federal University Otuoke,Bayelsa State,Nigeria- FirstClass Honours (Bsc Physics) -->
+<!-- - Federal University Otuoke, Bayelsa State, Nigeria- FirstClass Honours (BSc Physics) -->
 ### SkillSet
 - Programming language(s): Java, Python, Node.js
 - Programming Framework:SpringBoot(Java), Django(Python), FastApi(Python)
-- Web Technologies:Html, Css, JavaScript
-- DataBases:mySQL, MongoDB
+- Web Technologies: Html, CSS, JavaScript
+- Databases:MySQL, MongoDB
+- DataScience
 ### Experiences
-- E-commerce BackEnd with Java
+-![kaniotech](www.Kaniotech.ng) an Ecommerce web app that is live(Developed using Django)
+- Business Banking Automation for Union Bank
+- Loan Product Receipt Automation for Union Bank
+- Channels Analytics Automation For Union Bank
+- Developed a Loan Propensity model (DataScience) For Union Bank
+- Developed a Customer Segmentation model (DataScience) For Union Bank Using Pyspark
+- Developed a Customer Attrition model (DataScience) For channels in Union Bank
+- Developed a learning management app for Semicolon Africa
+- E-commerce BackEnd with Java 
 - E-commerce with SpringBoot
 - Banking app with Java
 - Blog with SpringBoot
 - Blog with Django
+
+
 
 
 
