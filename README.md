@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ### SkillSet
 - Programming language(s): Java, Python, Node.js
 - Programming Framework:SpringBoot(Java), Django(Python), FastApi(Python)
-- Web Technologies: Html, CSS, JavaScript
-- Databases:MySQL, MongoDB
+- Web Technologies: HTML, CSS, JavaScript
+- Databases: MySQL, MongoDB
 - DataScience
 ### Experiences
--![www.Kaniotech.ng] an Ecommerce web app that is live(Developed using Django)
+-![www.Kaniotech.ng] an E-commerce web app that is live
 - Business Banking Automation for Union Bank
 - Loan Product Receipt Automation for Union Bank
 - Channels Analytics Automation For Union Bank
