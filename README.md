@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Databases:MySQL, MongoDB
 - DataScience
 ### Experiences
--![kaniotech](www.Kaniotech.ng) an Ecommerce web app that is live(Developed using Django)
+-![www.Kaniotech.ng] an Ecommerce web app that is live(Developed using Django)
 - Business Banking Automation for Union Bank
 - Loan Product Receipt Automation for Union Bank
 - Channels Analytics Automation For Union Bank
