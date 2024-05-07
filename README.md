@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Nwafor Kingsley Chukwudi
 ![Nwafor King](https://res.cloudinary.com/dje0eeous/image/upload/v1635425119/King_dbr9nt.jpg))&nbsp;&nbsp;&nbsp;&nbsp;
-### Software Engineer
+### Software Engineer|DataScientist|Automation Engineer
 ##### Email: kingsleynwafor54@gmail.com
 ##### GithubAccount:https://github.com/kingsleynwafor54
 ##### Linkedin: https://www.linkedin.com/in/nwafor-kingsley/
